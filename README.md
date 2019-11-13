@@ -1,3 +1,4 @@
+
 # Code-Along: Building the `all?` method
 
 ## Objectives
